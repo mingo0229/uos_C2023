@@ -1,5 +1,6 @@
 #include <stdio.h> //printf 함수가 들어있는 stdio 헤더 불러오기
 
+//2020580003 통계학과 김민섭 C프로그래밍 과제1
 int main(void) {
 
 	char name[20], class[30];
