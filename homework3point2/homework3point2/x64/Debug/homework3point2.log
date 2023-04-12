@@ -1,0 +1,4 @@
+﻿  mathfunction.c
+C:\git\uos_C2023\homework3point2\homework3point2\mathfunction.c(43): warning C4715: 'GCD': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\git\uos_C2023\homework3point2\homework3point2\mathfunction.c(110): warning C4715: 'sGCD': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  homework3point2.vcxproj -> C:\git\uos_C2023\homework3point2\x64\Debug\homework3point2.exe
